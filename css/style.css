@@ -41,5 +41,6 @@ h2 {
 }
 
 a img {
-  transition: border 0.5s ;
+  transition: border 0.5s ease;
+  
 }
